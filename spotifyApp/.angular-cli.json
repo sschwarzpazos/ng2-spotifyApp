@@ -23,6 +23,7 @@
         "assets/b4/css/bootstrap.min.css"
       ],
       "scripts": [
+        "assets/jquery/jquery.slim.min.js",
         "assets/b4/js/bootstrap.min.js"
       ],
       "environmentSource": "environments/environment.ts",
